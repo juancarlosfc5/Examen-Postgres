@@ -2,7 +2,7 @@
 
 Antes de iniciar el programa verifique los datos de conexion a Postgres en el archivo Program.cs verificando la siguiente linea y ajustando la contraseña
 
-"server=localhost;database=introcsharp;user=postgres;password=123456*;"
+string connStr = "Host=localhost;database=introcsharp;Port=5432;Username=postgres;Password=123456;Pooling=true;";
 
 Posteriormente cree la base de datos de Postgres ejecutando el siguiente codigo DML
 
