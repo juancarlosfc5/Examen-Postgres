@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qTowEwWMOH4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reyes\\Downloads\\1. Campus\\2. Projects\\.NET\\Examen Postgres\\MiAppHexagonal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reyes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Reyes\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Reyes\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
